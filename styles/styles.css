@@ -45,7 +45,13 @@ body {
 
 #mainNav li:hover{
     background-color: antiquewhite;
+    color: #15272b;
 }
+
+#mainNav a:hover{
+    color: #15272b;
+}
+
 
 #nav-bar-bottom {
     background-color: antiquewhite;
